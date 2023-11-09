@@ -117,7 +117,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement": "<p>Announce something important here<\/p>",
+          "announcement": "<p>Una declaración de estilo<\/p>",
           "show": true,
           "homepage": false,
           "bg_color": "bg-dark text-white",
