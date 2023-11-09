@@ -51,7 +51,7 @@
             "description_size": "fs-5",
             "btn_text": "SI",
             "btn_url": "shopify:\/\/pages\/contact",
-            "btn_color": "btn-primary",
+            "btn_color": "btn-outline-dark",
             "btn_size": ""
           }
         }
