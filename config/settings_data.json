@@ -42,8 +42,8 @@
           "logo_height_mobile": 40,
           "logo_height_desktop": 82,
           "offcanvas_menu_header_bg": "bg-dark text-white",
-          "menu_mobile": "",
-          "utilities_menu": "",
+          "menu_mobile": "menu-oculum",
+          "utilities_menu": "menu-oculum",
           "offcanvas_menu_show_social_icons": true,
           "pt": 3,
           "pb": 3
