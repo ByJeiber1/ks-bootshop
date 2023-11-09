@@ -151,7 +151,7 @@
         "title_size": "h2",
         "description": "<p>Add on optional description to this section<\/p>",
         "description_size": "fs-6",
-        "collection_img_orientation": "landscape",
+        "collection_img_orientation": "potrait",
         "collection_img_border": "img-thumbnail",
         "btn_text": "View all collections",
         "btn_color": "btn-outline-secondary",
