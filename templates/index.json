@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/Banner_Prueba.jpg",
-            "img_mobile_height": 260,
+            "img_mobile_height": 1000,
             "img_mobile_opacity": 0.6,
             "img_desktop": "shopify:\/\/shop_images\/Banner_Prueba.jpg",
             "img_desktop_height": 800,
