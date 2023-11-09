@@ -347,19 +347,6 @@
         "mb": 0
       }
     },
-    "f79472bd-ea06-4791-b546-621b9bdf76a3": {
-      "type": "external-video",
-      "settings": {
-        "external_video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "bg_color": "",
-        "max_width": "960",
-        "video_border": "img-thumbnail",
-        "pt": 11,
-        "pb": 11,
-        "mt": 0,
-        "mb": 0
-      }
-    },
     "165175524396f2667c": {
       "type": "faq",
       "blocks": {
@@ -482,7 +469,6 @@
     "05555fb6-e1d4-4ec2-ab9e-50d802204854",
     "16527743361f98366e",
     "1651754599ab801902",
-    "f79472bd-ea06-4791-b546-621b9bdf76a3",
     "165175524396f2667c",
     "c74ebbe2-8be5-4594-80c9-25bb5250e03b",
     "16517348541d37c171",
