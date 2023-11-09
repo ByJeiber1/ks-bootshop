@@ -101,7 +101,7 @@
           "bg_color": "bg-dark text-white",
           "show_payment_icons": false,
           "show_social_icons": true,
-          "show_powered_by": true,
+          "show_powered_by": false,
           "pt": 10,
           "pb": 6
         }

@@ -460,6 +460,23 @@
         "mt": 0,
         "mb": 0
       }
+    },
+    "797434d8-4624-43a9-87bb-5a0079e41ed4": {
+      "type": "html",
+      "settings": {
+        "html": "<p class=\"bg-primary rounded text-white p-4\">Sample box based on your primary color<\/p>",
+        "bg_color": "",
+        "container": "container",
+        "text_align": "text-center",
+        "title": "HTML code",
+        "title_size": "h2",
+        "description": "<p>Write something catchy for this section<\/p>",
+        "description_size": "fs-6",
+        "pt": 0,
+        "pb": 0,
+        "mt": 0,
+        "mb": 0
+      }
     }
   },
   "order": [
@@ -472,6 +489,7 @@
     "165175524396f2667c",
     "c74ebbe2-8be5-4594-80c9-25bb5250e03b",
     "16517348541d37c171",
-    "1ab6c22f-7e79-4e79-b4b5-e0939ba5593b"
+    "1ab6c22f-7e79-4e79-b4b5-e0939ba5593b",
+    "797434d8-4624-43a9-87bb-5a0079e41ed4"
   ]
 }
