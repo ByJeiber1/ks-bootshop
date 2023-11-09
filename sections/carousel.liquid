@@ -30,17 +30,17 @@
                 {% else %}
                     <img 
                         class="carousel-item-img d-lg-none w-100"
-                        src="{{ block.settings.img_mobile | image_url: width: '160', crop: 'center' }}" 
+                        src="{{ block.settings.img_mobile | image_url: width: '960', crop: 'center' }}" 
                         alt=" {{ block.settings.img_mobile.alt }}"
-                        width="160"
+                        width="960"
                         height="{{ 960 | divided_by: block.settings.img_mobile.aspect_ratio | round }}"
                         loading="lazy"
                         style="height: {{ block.settings.img_mobile_height }}px; opacity: {{ block.settings.img_mobile_opacity }};">
                     <img 
                         class="carousel-item-img d-none d-lg-block w-100"
-                        src="{{ block.settings.img_desktop | image_url: width: '120', crop: 'center' }}" 
+                        src="{{ block.settings.img_desktop | image_url: width: '1000', crop: 'center' }}" 
                         alt=" {{ block.settings.img_desktop.alt }}"
-                        width="120"
+                        width="1920"
                         height="{{ 1920 | divided_by: block.settings.img_desktop.aspect_ratio | round }}"
                         loading="lazy"
                         style="height: {{ block.settings.img_desktop_height }}px; opacity: {{ block.settings.img_desktop_opacity }};">
