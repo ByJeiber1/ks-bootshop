@@ -167,6 +167,43 @@
         "mb": 0
       }
     },
+    "79b11fb3-3fe2-4b97-8a04-07ff0045fdb0": {
+      "type": "featured-collections",
+      "blocks": {
+        "9e69c88a-fdbe-4aaa-ae25-dd38920ba376": {
+          "type": "collection",
+          "settings": {
+            "collection": "todos-los-productos",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "9e69c88a-fdbe-4aaa-ae25-dd38920ba376"
+      ],
+      "settings": {
+        "bg_color": "bg-light text-dark",
+        "text_align": "text-center",
+        "title": "Featured Collections",
+        "title_size": "h2",
+        "description": "<p>Add on optional description to this section<\/p>",
+        "description_size": "fs-6",
+        "collection_img_orientation": "potrait",
+        "collection_img_border": "img-thumbnail",
+        "btn_text": "View all collections",
+        "btn_color": "btn-outline-secondary",
+        "breakpoint_xs": 1,
+        "breakpoint_sm": 2,
+        "breakpoint_md": 2,
+        "breakpoint_lg": 3,
+        "breakpoint_xl": 3,
+        "breakpoint_xxl": 3,
+        "pt": 10,
+        "pb": 11,
+        "mt": 0,
+        "mb": 0
+      }
+    },
     "16527743361f98366e": {
       "type": "cards-with-image",
       "blocks": {
@@ -426,6 +463,7 @@
     "carousel",
     "165151877352b831f8",
     "1651733459a1bea1c2",
+    "79b11fb3-3fe2-4b97-8a04-07ff0045fdb0",
     "16527743361f98366e",
     "1651754599ab801902",
     "f79472bd-ea06-4791-b546-621b9bdf76a3",
