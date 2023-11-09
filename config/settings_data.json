@@ -1,6 +1,8 @@
 {
   "current": {
     "color_primary": "#0d6efd",
+    "color_secondary": "#455a64",
+    "color_dark": "#000000",
     "color_light": "#f8f9fa",
     "color_body_bg": "#ffffff",
     "color_body_text": "#212529",
