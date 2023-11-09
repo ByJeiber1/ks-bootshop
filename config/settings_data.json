@@ -42,13 +42,13 @@
           "menu_desktop": "menu-oculum",
           "logo": "shopify:\/\/shop_images\/web_luz.png",
           "logo_height_mobile": 72,
-          "logo_height_desktop": 82,
+          "logo_height_desktop": 86,
           "offcanvas_menu_header_bg": "bg-dark text-white",
           "menu_mobile": "menu-oculum",
           "utilities_menu": "",
           "offcanvas_menu_show_social_icons": true,
-          "pt": 3,
-          "pb": 3
+          "pt": 5,
+          "pb": 6
         }
       },
       "footer": {
