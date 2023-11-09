@@ -41,7 +41,7 @@
           "shadow": "shadow-sm",
           "menu_desktop": "menu-oculum",
           "logo": "shopify:\/\/shop_images\/web_luz.png",
-          "logo_height_mobile": 40,
+          "logo_height_mobile": 72,
           "logo_height_desktop": 82,
           "offcanvas_menu_header_bg": "bg-dark text-white",
           "menu_mobile": "menu-oculum",
