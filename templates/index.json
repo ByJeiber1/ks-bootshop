@@ -16,7 +16,7 @@
             "description": "<p>Free Shopify Theme powered by Bootstrap v5 framework<\/p>",
             "description_size": "fs-5",
             "btn_text": "Download Free",
-            "btn_url": "https:\/\/www.kondasoft.com\/products\/ks-bootshop",
+            "btn_url": "",
             "btn_color": "btn-primary",
             "btn_size": ""
           }
@@ -49,8 +49,8 @@
             "title_size": "h2",
             "description": "",
             "description_size": "fs-5",
-            "btn_text": "",
-            "btn_url": "",
+            "btn_text": "SI",
+            "btn_url": "shopify:\/\/pages\/contact",
             "btn_color": "btn-primary",
             "btn_size": ""
           }
@@ -64,7 +64,7 @@
       "settings": {
         "controls": true,
         "indicators": true,
-        "autoplay": true,
+        "autoplay": false,
         "animation": "slide",
         "mt": 0,
         "mb": 0
