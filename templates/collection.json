@@ -14,7 +14,7 @@
         "title_size": "h1",
         "show_collection_description": true,
         "description_size": "fs-5",
-        "product_img_orientation": "potrait",
+        "product_img_orientation": "square",
         "product_img_border": "rounded",
         "product_title_size": "h6",
         "breakpoint_xs": 2,
