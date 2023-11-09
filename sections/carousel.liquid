@@ -30,9 +30,9 @@
                 {% else %}
                     <img 
                         class="carousel-item-img d-lg-none w-100"
-                        src="{{ block.settings.img_mobile | image_url: width: '960', crop: 'center' }}" 
+                        src="{{ block.settings.img_mobile | image_url: width: '160', crop: 'center' }}" 
                         alt=" {{ block.settings.img_mobile.alt }}"
-                        width="960"
+                        width="160"
                         height="{{ 960 | divided_by: block.settings.img_mobile.aspect_ratio | round }}"
                         loading="lazy"
                         style="height: {{ block.settings.img_mobile_height }}px; opacity: {{ block.settings.img_mobile_opacity }};">
