@@ -41,7 +41,7 @@
                         src="{{ block.settings.img_desktop | image_url: width: '1000', crop: 'center' }}" 
                         alt=" {{ block.settings.img_desktop.alt }}"
                         width="1920"
-                        height="{{ 1920 | divided_by: block.settings.img_desktop.aspect_ratio | round }}"
+                        height=" 1920"
                         loading="lazy"
                         style="height: {{ block.settings.img_desktop_height }}px; opacity: {{ block.settings.img_desktop_opacity }};">
                 {% endif %}
