@@ -117,13 +117,13 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement": "<p>Una declaración de estilo<\/p>",
+          "announcement": "<h5><strong>Una declaración de estilo<\/strong><\/h5>",
           "show": true,
           "homepage": false,
           "bg_color": "bg-dark text-white",
           "max_width": "600",
-          "font_size": "small",
-          "text_transform": "text-capitalize",
+          "font_size": "",
+          "text_transform": "text-uppercase",
           "pt": 3,
           "pb": 3
         }
